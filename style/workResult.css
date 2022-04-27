@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'Noto Sans KR';
-    src : url('/font/NotoSansKR-Medium.ttf') format('truetype');
+    src : url('https://jangyunseong.github.io/webproject/font/NotoSansKR-Medium.ttf') format('truetype');
 }
 #wrapper{
     position: relative;
@@ -18,7 +18,7 @@
     height: 148px;
     left: calc(50% - 160px/2 + 0.5px);
     top: calc(50% - 160px/2 - 253px);
-    background: url(/img/Check.png);
+    background: url(https://jangyunseong.github.io/webproject/img/Check.png);
 }
 #matchtext{
     position: absolute;

@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'Noto Sans KR';
-    src : url('/font/NotoSansKR-Medium.ttf') format('truetype');
+    src : url('https://jangyunseong.github.io/webproject/font/NotoSansKR-Medium.ttf') format('truetype');
 }
 #background{
     position: absolute;
@@ -20,7 +20,7 @@
     left: calc(50% - 663px/2 - 0.5px);
     top: calc(50% - 415px/2 - 179.5px);
 
-    background: url(/img/movekit.png);
+    background: url(https://jangyunseong.github.io/webproject/img/movekit.png);
     
 }
 
